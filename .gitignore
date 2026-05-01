@@ -1,0 +1,8 @@
+node_modules/
+*.tmp
+*.log
+*.bak
+.DS_Store
+observations.jsonl
+index.json
+sessions.jsonl
